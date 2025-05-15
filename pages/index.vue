@@ -1,5 +1,6 @@
 <template>
     <div>
-        Bookstore
+        <Hero />
+        <ProductsBlock />
     </div>
 </template>
